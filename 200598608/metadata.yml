@@ -1,0 +1,12 @@
+---
+:id: 200598608
+:submitters:
+- :name: Cameron Nagle
+  :email: nagle118@umn.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-10-08 20:32:42.708517000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-10-08 13:32:42.708517000 Z
+:status: processed
+:score: 92.5
