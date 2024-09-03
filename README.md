@@ -1,6 +1,4 @@
-# Wordle
-
-<img src="assets/wordle-logo.png" width="500">
+<img src="assets/wordle-logo.png" width="200">
 
 ## Welcome!
 
