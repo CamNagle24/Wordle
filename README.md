@@ -1,7 +1,6 @@
 <img src="assets/wordle-logo.png" width="100">
 
-## Welcome!
-This is the game wordle you can play in your terminal!
+## This is the game Wordle you can play in your terminal!
 
 ``` You can play Hard Mode                        Or Easy Mode ```
 
