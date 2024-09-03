@@ -1,4 +1,4 @@
-<img src="assets/wordle-logo.png" width="50">
+<img src="assets/wordle-logo.png" width="100">
 
 ## Welcome!
 
