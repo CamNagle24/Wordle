@@ -1,6 +1,6 @@
 # Wordle
 
-<img src="assets/wordle-logo.png" width="600">
+<img src="assets/wordle-logo.png" width="50">
 
 
 
