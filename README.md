@@ -3,7 +3,7 @@
 ## Welcome!
 This is the game wordle you can play in your terminal!
 
-You can play Hard Mode ############################## Or Easy Mode 
+You can play Hard Mode                        Or Easy Mode &nbsp;
 
 <img src="assets/Tests.png" width="600">
 
