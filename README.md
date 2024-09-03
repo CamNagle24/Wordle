@@ -1,8 +1,12 @@
 # Wordle
 
-<img src="assets/wordle-logo.png" width="50">
+<img src="assets/wordle-logo.png" width="500">
 
+## Welcome!
 
+Test
+Test
+Testststs
 
 <img src="assets/Tests.png" width="600">
 
