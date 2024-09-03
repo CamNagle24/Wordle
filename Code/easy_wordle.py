@@ -81,4 +81,4 @@ def easy_game(secret):
         print(guess)
         print("Answer:", guess)
 
-easy_game("REPLACE")
+easy_game("WLODE")
