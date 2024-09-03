@@ -158,4 +158,4 @@ def game(secret):
 
 
 #START THE GAME HERE WITH WHATEVER WORD YOU WANT
-game("WORDY")
+game("GOLDY")
