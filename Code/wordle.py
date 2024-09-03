@@ -155,3 +155,7 @@ def game(secret):
                 x += 1
             print()
         print("Answer:", guess)
+
+
+#START THE GAME HERE WITH WHATEVER WORD YOU WANT
+game("WORDY")

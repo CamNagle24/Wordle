@@ -81,4 +81,6 @@ def easy_game(secret):
         print(guess)
         print("Answer:", guess)
 
-easy_game("WLODE")
+
+#START THE GAME HERE WITH WHATEVER WORD YOU WANT
+easy_game("WORDY")
