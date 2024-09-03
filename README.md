@@ -1,10 +1,9 @@
 <img src="assets/wordle-logo.png" width="100">
 
 ## Welcome!
+This is the game wordle you can play in your terminal! You can play on easy mode or hard mode.
 
-Test
-Test
-Testststs
+Here is a demo of how it looks below
 
 <img src="assets/Tests.png" width="600">
 
