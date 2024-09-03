@@ -80,3 +80,5 @@ def easy_game(secret):
         print("1 words possible:")
         print(guess)
         print("Answer:", guess)
+
+easy_game("REPLACE")
