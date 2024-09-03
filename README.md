@@ -5,7 +5,7 @@ This is the game wordle you can play in your terminal! You can play on easy mode
 
 You can play Hard Mode |      Or Easy Mode |
 
-                       V                   V
+|                      V                   V
 
 <img src="assets/Tests.png" width="600">
 
