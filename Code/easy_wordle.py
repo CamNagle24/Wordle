@@ -83,4 +83,4 @@ def easy_game(secret):
 
 
 #START THE GAME HERE WITH WHATEVER WORD YOU WANT
-easy_game("WORDY")
+easy_game("GOLDY")
