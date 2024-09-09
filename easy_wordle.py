@@ -82,5 +82,5 @@ def easy_game(secret):
         print("Answer:", guess)
 
 
-#START THE GAME HERE WITH WHATEVER WORD YOU WANT
-easy_game("GOLDY")
+#START THE GAME HERE WITH WHATEVER WORD YOU WANT UNCOMMENT LINE BELOW
+#easy_game("GREEN")
